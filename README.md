@@ -1,59 +1,49 @@
-# 👋 Hi, I'm Farrel Jocellin!
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-💡 Passionate about **technology, automation, and intelligent systems**.  
-🎯 Exploring the intersection of **AI, networking, and software engineering**.  
-📍 Based in Indonesia | 🌐 Open for collaboration and creative projects.
+###
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-## 🚀 About Me
-I'm a curious developer who loves experimenting with code — from building automation bots to analyzing data and creating research-based tech projects.
+###
 
-🧠 I enjoy:
-- Automating repetitive tasks with **Python scripts**
-- Exploring **AI models** and **data-driven systems**
-- Learning how real-world systems (like networks & sensors) connect with software
-- Writing clean documentation & technical reports
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
----
+###
 
-## 🧰 Tech Stack
-| Category | Tools / Languages |
-|-----------|------------------|
-| **Languages** | Python, JavaScript, C++, HTML/CSS |
-| **Frameworks** | Flask, React, Node.js |
-| **Tools** | Git, VS Code, Jupyter, Figma |
-| **Data & AI** | Pandas, scikit-learn, OpenCV |
-| **Networking** | OpenVPN, Socket Programming |
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
----
+###
 
-## 🧩 Highlighted Projects
-🔹 **Auto Reconnect Bot** — Python-based script for monitoring online bots and changing IP automatically when limits are reached.  
-🔹 **Optical Fiber Research Notes** — Educational project explaining numerical aperture, energy of photons, and optical principles.  
-🔹 **Decision Tree Classifier** — A simple machine learning project for classifying transport modes using Scikit-learn.  
-🔹 **Tech Writeups & Research Summaries** — Summarizing, paraphrasing, and visualizing technical documents in Word and PDF formats.
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
----
+###
 
-## 📊 GitHub Stats
-![Farrel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farreljocellin&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farreljocellin&layout=compact&theme=radical)
+<br clear="both">
 
----
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-## 🌱 Currently Exploring
-- Building automation tools for real-world tasks  
-- Deepening understanding of AI and data modeling  
-- Experimenting with networking & VPN systems  
-
----
-
-## 📫 Connect with Me
-📧 Email: farrel@example.com  
-💼 LinkedIn: [linkedin.com/in/farreljocellin](https://linkedin.com/in/farreljocellin)  
-🌐 Portfolio: [github.com/farreljocellin](https://github.com/farreljocellin)
-
----
-
-⭐ _"I believe learning by doing is the fastest way to grow — one script, one experiment, one project at a time."_  
+###
